@@ -1,6 +1,6 @@
 /* CSS 변수 설정 */
 :root {
-    --main-bg-color: #b2a481; /* 대표 배경 색상 */
+    --main-bg-color: #d4ccbb; /* 대표 배경 색상 */
     --text-color: #333;       /* 기본 텍스트 색상 */
     --highlight-color: #704214; /* 강조 색상 */
     --secondary-bg-color: #e0dedb; /* 보조 배경 색상 */
